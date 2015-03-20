@@ -1,0 +1,15 @@
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\bin\Debug\Sykkelutleie.exe.config
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\bin\Debug\Sykkelutleie.exe
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\bin\Debug\Sykkelutleie.pdb
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\bin\Debug\Sykkelutleie.xml
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.vbprojResolveAssemblyReference.cache
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.finnKunde.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.finnSykkel.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.finnUtstyr.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.main.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.login.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.Resources.resources
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.vbproj.GenerateResource.Cache
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.exe
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.xml
+C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.pdb
