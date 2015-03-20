@@ -51,6 +51,7 @@
       <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.5\Assemblies\v4.0\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
@@ -92,17 +93,17 @@
     <Compile Include="finnUtstyr.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Logginn.Designer.vb">
+      <DependentUpon>Logginn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Logginn.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="main.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="main.Designer.vb">
       <DependentUpon>main.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="login.Designer.vb">
-      <DependentUpon>login.vb</DependentUpon>
-    </Compile>
-    <Compile Include="login.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -120,6 +121,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="sqlsokDAO.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="finnKunde.resx">
@@ -131,11 +133,11 @@
     <EmbeddedResource Include="finnUtstyr.resx">
       <DependentUpon>finnUtstyr.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Logginn.resx">
+      <DependentUpon>Logginn.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="main.resx">
       <DependentUpon>main.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="login.resx">
-      <DependentUpon>login.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

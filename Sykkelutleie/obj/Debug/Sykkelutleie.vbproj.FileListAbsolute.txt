@@ -13,3 +13,18 @@ C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\ob
 C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.exe
 C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.xml
 C:\Users\Olav\Documents\Visual Studio 2013\Projects\Sykkelutleie\Sykkelutleie\obj\Debug\Sykkelutleie.pdb
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.exe.config
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.exe
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.xml
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.pdb
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.vbprojResolveAssemblyReference.cache
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.finnKunde.resources
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.finnSykkel.resources
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.finnUtstyr.resources
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.main.resources
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.Resources.resources
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.vbproj.GenerateResource.Cache
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.exe
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.pdb
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.xml
+C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.Logginn.resources
