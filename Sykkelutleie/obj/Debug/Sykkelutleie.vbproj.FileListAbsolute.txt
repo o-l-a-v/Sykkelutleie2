@@ -28,3 +28,7 @@ C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelu
 C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.pdb
 C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.xml
 C:\Users\Oskar Møllersen\Documents\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.Logginn.resources
+C:\Users\HK\Documents\Visual Studio 2013\Projects\github2prosj\Sykkelutleie2\Sykkelutleie\bin\Debug\Sykkelutleie.exe.config
+C:\Users\HK\Documents\Visual Studio 2013\Projects\github2prosj\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.exe
+C:\Users\HK\Documents\Visual Studio 2013\Projects\github2prosj\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.xml
+C:\Users\HK\Documents\Visual Studio 2013\Projects\github2prosj\Sykkelutleie2\Sykkelutleie\obj\Debug\Sykkelutleie.pdb
