@@ -7,11 +7,11 @@
         End If
     End Sub
 
-<<<<<<< HEAD
+
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         Me.Hide()
         finnUtstyr.Show()
-=======
+    End Sub
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         finnKunde.Show()
     End Sub
@@ -21,10 +21,5 @@
 
     End Sub
 
-    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        finnUtstyr.Show()
-
->>>>>>> origin/master
-    End Sub
 End Class
 
