@@ -3,7 +3,8 @@
     Dim passord As String
     Private Sub Logginn_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         txtPW.PasswordChar = "*"
-        txtBN.Focus()
+        txtBN.Text = "01028611113"
+        txtPW.Text = "test3"
     End Sub
 
 
@@ -30,10 +31,8 @@
                 MsgBox("Feil brukernavn eller passord, prøv på nytt.")
             End If
         End If
-        txtBN.Text = ""
-        txtPW.Text = ""
     End Sub
-
+    'Kobler textboksen til btnLogginn slik at vi kan trykke "enter" for å logge inn.
     Private Sub txtBN_TextChanged(sender As Object, e As EventArgs) Handles txtBN.TextChanged
         Me.AcceptButton = btnLogginn
 
